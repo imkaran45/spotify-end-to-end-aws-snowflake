@@ -21,6 +21,12 @@ For the loading part, I employed Snowflake, an ideal platform for data warehousi
 **📊 Power BI for Visualization:**
 Can utilise Power BI to craft stunning data visualizations and interactive dashboards, simplifying data-driven decision-making.
 
+**Architecture:**
+
+<img width="991" alt="image" src="https://github.com/imkaran45/spotify-end-to-end-aws-snowflake/assets/28987765/5cb82f31-3be7-4e6a-bd02-cf361c910ac9">
+
+
+
 **🔍 Project Components:**
 
 **Data Extraction:** Python code, aided by the Spotipy library, fetched music data directly from Spotify, and subsequently, it was stored in AWS S3.
